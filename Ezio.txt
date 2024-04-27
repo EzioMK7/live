@@ -23,3 +23,4 @@ CCTV15 音乐,http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/prog
 CCTV15 音乐,http://39.134.66.66/PLTV/88888888/224/3221225513/index.m3u8 
 CCTV16 奥林匹克,http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/cctv16hd8m/8000000/mnf.m3u8
 CCTV17 农业农村,http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8 
+CCTV4K http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8 
