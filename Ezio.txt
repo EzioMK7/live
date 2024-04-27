@@ -31,3 +31,4 @@ CHC动作电影,http://115.60.241.249:2000/rtp/225.1.4.208:1261
 CCTV第一剧场,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514403.m3u8 
 CCTV风云剧场,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513603.m3u8 
 CCTV怀旧剧场,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012511203.m3u8 
+CCTV风云音乐,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514103.m3u8 
