@@ -1,5 +1,4 @@
 央视,#genre# 
-
 CCTV1 综合,http://39.134.66.66/PLTV/88888888/224/3221225816/index.m3u8 
 CCTV2 财经,http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/cctv2hd8m/8000000/mnf.m3u8 
 CCTV2 财经,http://39.134.66.66/PLTV/88888888/224/3221225599/index.m3u8 
@@ -103,3 +102,9 @@ CETV1,https://iptv.luas.edu.cn/liverespath/85558d86e1bcab9405a28515bc414ba3676ec
 CETV3,https://iptv.luas.edu.cn/liverespath/3a13f3b554cd6c3764599392bb43650e4e015b87/2f665915b0-0-0-08b800b5bdd1f6d3f61a673c5eb1afec/index.m3u8 
 北京卡酷动画,http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/kkse8m/8000000/mnf.m3u8 
 北京纪实,https://epg.pw/stream/544cc09b12f4a7e88dcf6d03ac6f42925ce17749273bdc3f324897c1593df622.m3u8 
+
+香港,#genre#
+
+澳门,#genre#
+
+台湾,#genre#
