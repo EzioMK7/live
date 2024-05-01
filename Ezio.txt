@@ -18,6 +18,7 @@ CCTV13 新闻,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ys
 CCTV13 新闻,http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8 
 CCTV13 新闻,http://39.134.66.66/PLTV/88888888/224/3221225812/index.m3u8 
 CCTV14 少儿,http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8 
+CCTV15 音乐,http://218.98.31.233/liveali-tpgq.cctv.cn/live/cctv15.m3u8 
 CCTV15 音乐,http://154.yfvodcdn.com:8080/live/jsydcctv15/hls.m3u8 
 CCTV15 音乐,http://117.32.85.181:8014/rtp/239.112.205.214:5140 
 CCTV15 音乐,http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/cctv15hd8m/8000000/mnf.m3u8 
