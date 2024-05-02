@@ -26,6 +26,7 @@ CCTV15 音乐,http://39.134.66.66/PLTV/88888888/224/3221225513/index.m3u8
 CCTV16 奥林匹克,http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/cctv16hd8m/8000000/mnf.m3u8
 CCTV17 农业农村,http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8 
 CCTV 4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8 
+CCTV 8K,https://epg.pw/stream/d2dd4e3114e668266c160798ebddafeea8c3337f951641d7ba649e297e1c1ee4.m3u8
 CCTV 8K,http://49.235.110.121:9090/123/php/8k.php 
 CHC高清电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8 
 CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540 
