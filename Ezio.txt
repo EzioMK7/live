@@ -153,6 +153,7 @@ J2,http://nz189l149.bb27109.ctm.net:8892/bysid/82
 
 台湾,#genre#
 民视,rtmp://f13h.mine.nu/sat/tv051
+三立,http://59.125.101.187:8521/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
 
 
 
