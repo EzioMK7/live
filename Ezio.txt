@@ -151,6 +151,7 @@ J2,http://nz189l149.bb27109.ctm.net:8892/bysid/82
 
 
 台湾,#genre#
+民视,rtmp://f13h.mine.nu/sat/tv051
 
 
 
