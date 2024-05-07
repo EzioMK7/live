@@ -1,5 +1,6 @@
 央视,#genre# 
 CCTV1 综合,http://39.134.66.66/PLTV/88888888/224/3221225816/index.m3u8 
+CCTV2 财经,https://epg.pw/channels/13843/20240507.html 
 CCTV2 财经,http://110.178.52.196:8083/udp/239.1.1.8:8008 
 CCTV2 财经,https://z88.ubtvfans.com/live/rx1/2305/33545cc7858137acae827ca84a574951/index.m3u8 
 CCTV3 综艺,http://39.134.66.66/PLTV/88888888/224/3221225799/index.m3u8 
