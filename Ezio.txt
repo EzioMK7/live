@@ -2,6 +2,7 @@
 CCTV1 综合,http://39.134.66.66/PLTV/88888888/224/3221225816/index.m3u8 
 CCTV2 财经,http://110.178.52.196:8083/udp/239.1.1.8:8008 
 CCTV2 财经,http://125.210.150.58:9090/live/hzgq-cctv2gq-h264.m3u8 
+CCTV2 财经,http://113.128.226.58:8888/newlive/live/hls/3/live.m3u8
 CCTV3 综艺,http://39.134.66.66/PLTV/88888888/224/3221225799/index.m3u8 
 CCTV4 中文国际,http://39.134.66.66/PLTV/88888888/224/3221225797/index.m3u8 
 CCTV4 中文国际,http://66.165.240.154:8080/live/jsydcctv4/hls.m3u8 
